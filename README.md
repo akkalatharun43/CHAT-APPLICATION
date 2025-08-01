@@ -42,3 +42,5 @@ Here's a comprehensive description of the real-time chat application components 
 - Backend integration possibilities (Node.js, Socket.IO, databases)
 - Advanced features (file sharing, voice/video, encryption)
 - Scalability improvements (pagination, rooms, user roles)
+
+  ##OUTPUT:<img width="45" height="30" alt="Image" src="https://github.com/user-attachments/assets/5749ebd4-d731-42a2-85b9-39bffb983dcd" />
