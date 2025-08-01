@@ -43,4 +43,4 @@ Here's a comprehensive description of the real-time chat application components 
 - Advanced features (file sharing, voice/video, encryption)
 - Scalability improvements (pagination, rooms, user roles)
 
-  ##OUTPUT:<img width="45" height="30" alt="Image" src="https://github.com/user-attachments/assets/5749ebd4-d731-42a2-85b9-39bffb983dcd" />
+  ##OUTPUT:<img width="1909" height="908" alt="Image" src="https://github.com/user-attachments/assets/94caa166-9b9c-4d2f-9324-8377a01d9e02" />
